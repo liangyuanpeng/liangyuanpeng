@@ -1,7 +1,7 @@
 ### Hello World. 👋
 
 - 🔭 deving   
-[nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [nacosctl](https://github.com/liangyuanpeng/nacosctl)  
+[Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)  
 - 🌱 I'm currently learning  
 [Openyurt](https://github.com/alibaba/openyurt) and [KubeEdge](https://github.com/kubeedge/kubeedge)  
 
@@ -17,6 +17,8 @@ Hi,我是梁远鹏.Kubernetes和Pulsar爱好者.
 ![https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg](https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg)
 <!--
 **liangyuanpeng/liangyuanpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![baidu](https://hm.baidu.com/hm.js?212bf669631d36d814d3c04f593407aa)
 
 Here are some ideas to get you started:
 
