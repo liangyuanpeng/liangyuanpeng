@@ -15,10 +15,15 @@ Hi,我是梁远鹏.Kubernetes和Pulsar爱好者.
 
 ### 欢迎关注公众号:四颗咖啡豆  
 ![https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg](https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg)
+
+
+![video](https://res.cloudinary.com/lyp/image/upload/v1613264771/hugo/blog.github.io/donghua.gif)
+
+
 <!--
 **liangyuanpeng/liangyuanpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![video](https://res.cloudinary.com/lyp/image/upload/v1613264771/hugo/blog.github.io/donghua.gif)
+
 
 Here are some ideas to get you started:
 
