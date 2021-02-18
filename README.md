@@ -15,9 +15,16 @@ Hi,我是梁远鹏.Kubernetes和Pulsar爱好者.
 
 ### 捐赠  
 > 随时欢迎请我喝一杯咖啡☕️  
-1. 一次性赞助  
+## 一次性赞助   
 
-2. 周期性赞助
+### 支付宝
+![zhifubao.png](zhifubao.png)  
+
+### 微信  
+
+![weixin.png](weixin.png)
+
+## 周期性赞助
 
 ### 欢迎关注公众号:四颗咖啡豆  
 ![https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg](https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg)
