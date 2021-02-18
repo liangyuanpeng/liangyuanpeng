@@ -1,4 +1,4 @@
-### Hello World. 👋
+# Hello World. 👋
 
 - 🔭 deving   
 [Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)  
@@ -13,19 +13,15 @@ Hi,我是梁远鹏.Kubernetes和Pulsar爱好者.
 - 😄 为了方便国内对K8S感兴趣的人学习K8S,避免翻墙的困扰,我正在维护[lank8s.cn](https://github.com/lank8scn),希望提供一个好记方便使用的k8s镜像下载仓库.  
 - 📫 [知乎](https://www.zhihu.com/people/liangyuanpeng) | [Infoq.cn](https://www.infoq.cn/u/liangyuanpeng/publish) | [博客](https://liangyuanpeng.com/) | [csdn](https://blog.csdn.net/lypgcs)   
 
-### 捐赠  
+## 捐赠  
 > 随时欢迎请我喝一杯咖啡☕️  
-## 一次性赞助   
+### 一次性赞助   
+[支付宝](zhifubao.png)  
+[微信](weixin.png)
 
-### 支付宝
-[zhifubao.png](zhifubao.png)  
+### 周期性赞助
 
-### 微信  
-[weixin.png](weixin.png)
-
-## 周期性赞助
-
-### 欢迎关注公众号:四颗咖啡豆  
+## 欢迎关注公众号:四颗咖啡豆  
 ![https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg](https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg)
 
 
