@@ -18,11 +18,10 @@ Hi,我是梁远鹏.Kubernetes和Pulsar爱好者.
 ## 一次性赞助   
 
 ### 支付宝
-![zhifubao.png](zhifubao.png)  
+[zhifubao.png](zhifubao.png)  
 
 ### 微信  
-
-![weixin.png](weixin.png)
+[weixin.png](weixin.png)
 
 ## 周期性赞助
 
