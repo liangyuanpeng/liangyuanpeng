@@ -22,8 +22,9 @@ Hi,我是梁远鹏.Kubernetes和Pulsar爱好者.
 ### 周期性赞助
 
 ## 欢迎关注公众号:四颗咖啡豆  
-![https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg](https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg)
-
+![微信公众号](http://free.lank8s.cn/staticfile/qcode1208.jpg)
+<!-- ![https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg](https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg)
+-->
 
 <!--
 **liangyuanpeng/liangyuanpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
