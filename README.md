@@ -16,8 +16,8 @@ Hi,我是梁远鹏.Kubernetes和Pulsar爱好者.
 ## 捐赠  
 > 随时欢迎请我喝一杯咖啡☕️  
 ### 一次性赞助   
-[支付宝](zhifubao.png)  
-[微信](weixin.png)
+[支付宝](zhifubao.md)  
+[微信](weixin.md)
 
 ### 周期性赞助
 
