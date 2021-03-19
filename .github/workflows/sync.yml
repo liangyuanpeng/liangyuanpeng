@@ -20,4 +20,4 @@ jobs:
       run: |
             git remote add gitee https://${{ secrets.GITEE_USER }}:${{ secrets.GITEE_PASSWORD }}@gitee.com/liangyuanpeng/liangyuanpeng.git
             git fetch --unshallow origin
-            git push gitee main:master -f
+            git push gitee master:master -f
