@@ -19,7 +19,12 @@ Hi,我是梁远鹏.Kubernetes和Pulsar爱好者.
 [支付宝](zhifubao.md)  
 [微信](weixin.md)
 
-### 周期性赞助
+### 周期性赞助  
+
+### 感谢所有赞助!  
+
+2021-02-28 **天 边缘计算社区 100元  
+2021-03-19 *进 10元  
 
 ## 欢迎关注公众号:四颗咖啡豆  
 ![微信公众号](http://free.lank8s.cn/staticfile/qcode1208.jpg)
