@@ -1,7 +1,7 @@
 # Hello World. 👋
 
 - 🔭 deving   
-~~[Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)  ~~
+~~[Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~
 - 🌱 I'm currently learning  
 [Openyurt](https://github.com/alibaba/openyurt) and [KubeEdge](https://github.com/kubeedge/kubeedge)  
 
