@@ -4,9 +4,8 @@ I am Lan. I work as Software engineer.
 
 - 🔭 deving   
 ~~[Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~
-- 🌱 I'm currently learning  
-[Openyurt](https://github.com/alibaba/openyurt) and [KubeSphere](https://github.com/kubesphere/kubesphere)  
-- 👯 I’m looking to collaborate on Golang, Pulsar, KubeSphere, Kubernetes, OpenYurt, CNCF projects
+- 🌱 I'm currently focus on [Pulsar](https://github.com/apache/pulsar) and [KubeSphere](https://github.com/kubesphere/kubesphere)  
+- 👯 I’m looking to collaborate on Golang, Pulsar, KubeSphere, Kubernetes, OpenYurt, Tekton, CNCF projects
 
 
 ↓↓↓Chinese↓↓↓
