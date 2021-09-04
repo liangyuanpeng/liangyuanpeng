@@ -4,6 +4,8 @@
 ~~[Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~
 - 🌱 I'm currently learning  
 [Openyurt](https://github.com/alibaba/openyurt) and [KubeSphere](https://github.com/kubesphere/kubesphere)  
+- 👯 I’m looking to collaborate on Golang, Pulsar, KubeSphere, Kubernetes, OpenYurt, CNCF projects
+
 
 ↓↓↓Chinese↓↓↓
 ---
