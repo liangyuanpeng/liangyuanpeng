@@ -1,5 +1,7 @@
 # Hello World. 👋
 
+I am Lan. I work as Software engineer.
+
 - 🔭 deving   
 ~~[Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~
 - 🌱 I'm currently learning  
