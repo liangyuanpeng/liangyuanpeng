@@ -1,6 +1,6 @@
 # Hello World. 👋
 
-I am Lan. I work as Software engineer.
+I am Lan. I work as ⎈Software engineer⎈.
 
 - 🔭 deving   
 ~~[Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~
@@ -9,7 +9,7 @@ I am Lan. I work as Software engineer.
 
 
 ↓↓↓Chinese↓↓↓
-Hi,我是远鹏.Kubernetes和Pulsar爱好者,OpenYurt Member,[CDF中文本地化SIG](https://github.com/cdfoundation/sig-chinese-localization)成员. 
+Hi,我是远鹏.⎈Kubernetes和Pulsar爱好者⎈,OpenYurt Member,[CDF中文本地化SIG](https://github.com/cdfoundation/sig-chinese-localization)成员. 
 - 最近我正专注于Pulsar的[mop](https://github.com/streamnative/mop)和[kubesphere的问题解答以及挖掘潜在贡献者](https://kubesphere.com.cn/forum/)
 - 🔭 在公司职责上,我正在开发开源项目[cloudevents-functions](https://github.com/yunhorn/cloudevents-functions)和[vmbackup-sidecar](https://github.com/yunhorn/vmbackup-sidecar) 
 ~~[Nacos-Operator](https://github.com/liangyuanpeng/nacos-operator)和[Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~ 欢迎有兴趣的同学一起参与进来!  
