@@ -6,12 +6,13 @@ I am Lan. I work as ⎈Software engineer⎈.
 ~~[Nacos-operator](https://github.com/liangyuanpeng/nacos-operator) and [Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~
 - 🌱 I'm currently focus on [Pulsar](https://github.com/apache/pulsar) and [KubeSphere](https://github.com/kubesphere/kubesphere)  
 - 👯 I’m looking to collaborate on Golang, Pulsar, KubeSphere, Kubernetes, OpenYurt, Tekton, CNCF projects
+- 😄 deving bookkeeper client from go and welcome [join us](https://github.com/pulsar-sigs/bk-client-go)
 
 
 ↓↓↓Chinese↓↓↓
 Hi,我是远鹏.⎈Kubernetes和Pulsar爱好者⎈,OpenYurt Member,[CDF中文本地化SIG](https://github.com/cdfoundation/sig-chinese-localization)成员. 
-- 最近我正专注于Pulsar的[mop](https://github.com/streamnative/mop)和[kubesphere的问题解答以及挖掘潜在贡献者](https://kubesphere.com.cn/forum/)
-- 🔭 在公司职责上,我正在开发开源项目[cloudevents-functions](https://github.com/yunhorn/cloudevents-functions)和[vmbackup-sidecar](https://github.com/yunhorn/vmbackup-sidecar) 
+- 最近我正专注于Apache Bookkeeper的go客户端[bk-client-go](https://github.com/pulsar-sigs/bk-client-go)和[kubesphere的问题解答以及挖掘潜在贡献者](https://kubesphere.com.cn/forum/)
+- 🔭 在公司职责上,我正在负责[yunhorn组织下的开源项目](https://github.com/yunhorn) 
 ~~[Nacos-Operator](https://github.com/liangyuanpeng/nacos-operator)和[Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~ 欢迎有兴趣的同学一起参与进来!  
 - 🌱 与此同时我正在为了开源项目[lua-resty-pulsar](https://github.com/pulsar-sigs/lua-resty-pulsar)而学习lua语言,如果你已经有相关经验或感兴趣的同学欢迎与我分享一下内容!
 - 👯 如果你对DevOps感兴趣或需要面向应用的容器平台,欢迎与我联系一起交流.[KubeSphere论坛](https://kubesphere.com.cn)
