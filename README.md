@@ -13,7 +13,7 @@ Hi,我是远鹏.⎈Kubernetes和Pulsar爱好者⎈,OpenYurt Member,[CDF中文本
 - 最近我正专注于Pulsar的[mop](https://github.com/streamnative/mop)和[kubesphere的问题解答以及挖掘潜在贡献者](https://kubesphere.com.cn/forum/)
 - 🔭 在公司职责上,我正在开发开源项目[cloudevents-functions](https://github.com/yunhorn/cloudevents-functions)和[vmbackup-sidecar](https://github.com/yunhorn/vmbackup-sidecar) 
 ~~[Nacos-Operator](https://github.com/liangyuanpeng/nacos-operator)和[Nacosctl](https://github.com/liangyuanpeng/nacosctl)~~ 欢迎有兴趣的同学一起参与进来!  
-- 🌱 (**边缘计算研究*暂停中**)与此同时我正在学习边缘计算,研究两个CNF项目[Openyurt](https://github.com/alibaba/openyurt)和[KubeEdge](https://github.com/kubeedge/kubeedge),如果你已经有相关经验或感兴趣的同学欢迎与我分享一下内容!
+- 🌱 与此同时我正在为了开源项目[lua-resty-pulsar](https://github.com/pulsar-sigs/lua-resty-pulsar)而学习lua语言,如果你已经有相关经验或感兴趣的同学欢迎与我分享一下内容!
 - 👯 如果你对DevOps感兴趣或需要面向应用的容器平台,欢迎与我联系一起交流.[KubeSphere论坛](https://kubesphere.com.cn)
 - 😄 为了方便国内对K8S感兴趣的人学习K8S,避免翻墙的困扰,我正在维护[lank8s.cn](https://github.com/lank8scn),希望提供一个好记方便使用的k8s镜像下载仓库.
 - 📫 [知乎](https://www.zhihu.com/people/liangyuanpeng) | [Infoq.cn](https://www.infoq.cn/u/liangyuanpeng/publish) | [博客](https://liangyuanpeng.com/) | [csdn](https://blog.csdn.net/lypgcs)   
