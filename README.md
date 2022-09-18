@@ -4,14 +4,13 @@ I am Lan. I work as ⎈Software engineer⎈.
 
 Time Zone: UTC/GMT +8.
 
-- 🌱 I'm currently focus on [Pulsar](https://github.com/apache/pulsar) and [KubeSphere](https://github.com/kubesphere/kubesphere)  
-- 👯 I’m looking to collaborate on Golang, Pulsar, KubeSphere, Kubernetes, OpenYurt, Tekton, CNCF projects
+- 🌱 I'm currently focus on [Pulsar](https://github.com/apache/pulsar) and [Kubernetes](https://github.com/kubernetes/kubernetes)  
+- 👯 I’m looking to collaborate on Golang, Pulsar, KubeSphere, Kubernetes, OpenYurt, Tekton, CNCF projects.
 - 😄 love pulsar and maintain pulsar-sigs [join us](https://github.com/pulsar-sigs)
 
 
 ↓↓↓Chinese↓↓↓
 Hi,我是远鹏.⎈Kubernetes和Pulsar爱好者⎈,OpenYurt Member,[CDF中文本地化SIG](https://github.com/cdfoundation/sig-chinese-localization)成员. 
-- 最近我正专注于[kubesphere的问题解答以及挖掘潜在贡献者](https://kubesphere.com.cn/forum/)
 - 🔭 在公司职责上,我正在负责[yunhorn组织下的开源项目](https://github.com/yunhorn) 
  欢迎有兴趣的同学一起参与进来!  
 - 🌱 期待你加入pulsar-sigs,一起搞事情-->[pulsar-sigs](https://github.com/pulsar-sigs)
