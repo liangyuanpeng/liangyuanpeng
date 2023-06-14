@@ -17,6 +17,10 @@ Hi,我是远鹏.⎈Kubernetes和Pulsar爱好者⎈.
 - ✨ 对**开源/kubernetes/远程**相关工作感兴趣 ✨
 - 📫 [知乎](https://www.zhihu.com/people/liangyuanpeng) | [博客](https://liangyuanpeng.com/)  
 
+## 计划中的事情✨✨
+- 申请 CNCF Ambassador
+- 申请 CDF Ambassador
+
 ## 欢迎关注公众号:四颗咖啡豆  
 ![微信公众号](http://free.lank8s.cn/staticfile/qcode1208.jpg)
 <!-- ![https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg](https://res.cloudinary.com/lyp/image/upload/v1612688380/wechat/qcode1208.jpg)
