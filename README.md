@@ -5,11 +5,11 @@
 I am Lan. I work as ⎈Software engineer⎈.
 
 - 🌱 I'm currently focus on [Pulsar](https://github.com/apache/pulsar)  [Kubernetes](https://github.com/kubernetes/kubernetes)  and [karmada](https://github.com/karmada-io/karmada)
-- 👯 I’m looking to collaborate on Golang, Pulsar, Kubernetes, Karmada, Tekton,Shipwright, CNCF projects.
-- Love to research and advocacy for cncf projects,cdf projects and apache pulsar.
+- 👯 I’m looking to collaborate on Golang, Pulsar, Kubernetes, Karmada, CNCF projects.
+- Love to research and advocacy for CNCF projects and Apache Pulsar.
 
 ## ↓↓↓Chinese↓↓↓
-Hi,我是远鹏.⎈Kubernetes和Pulsar爱好者⎈. 
+Hi,我是远鹏.⎈Kubernetes 和 Apache Pulsar 爱好者⎈. 
 ✨ 欢迎有兴趣的同学一起参与进来! ✨ 
 - 🌱 期待你加入pulsar-sigs,一起搞事情-->[pulsar-sigs](https://github.com/pulsar-sigs)
 - 👯 热衷于研究和传播 CNCF 项目,CDF 项目以及 Apache Pulsar.
@@ -19,7 +19,7 @@ Hi,我是远鹏.⎈Kubernetes和Pulsar爱好者⎈.
 
 ## 计划中的事情✨✨
 - 申请 CNCF Ambassador
-- 申请 CDF Ambassador
+- ~~申请 CDF Ambassador~~, 我很期待,但显然精力有限 (:
 
 ## 欢迎关注公众号:四颗咖啡豆  
 ![微信公众号](http://free.lank8s.cn/staticfile/qcode1208.jpg)
