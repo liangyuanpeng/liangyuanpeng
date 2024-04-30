@@ -4,6 +4,7 @@
 
 I am Lan. I work as ⎈Software engineer⎈.
 
+- I'm [CNCF Ambassador](https://www.cncf.io/people/ambassadors/).
 - 🌱 I'm currently focus on [Kubernetes](https://github.com/kubernetes/kubernetes)  and [karmada](https://github.com/karmada-io/karmada)
 - 👯 I’m looking to collaborate on Golang, Pulsar, Kubernetes, Karmada, CNCF projects.
 - Love to research and advocacy for CNCF projects and Apache Pulsar.
@@ -18,7 +19,7 @@ Hi,我是远鹏.⎈Kubernetes 和 云原生 爱好者⎈.
 - 📫 [知乎](https://www.zhihu.com/people/liangyuanpeng) | [博客](https://liangyuanpeng.com/)  
 
 ## 计划中的事情✨✨
-- 申请 CNCF Ambassador
+- ~~申请 CNCF Ambassador~~ ( 目前是 CNCF 大使)
 - ~~申请 CDF Ambassador~~, 我很期待,但显然精力有限 (:
 
 ## 欢迎关注公众号:四颗咖啡豆  
