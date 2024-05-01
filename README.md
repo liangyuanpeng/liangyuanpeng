@@ -10,7 +10,7 @@ I am Lan. I work as ⎈Software engineer⎈.
 - Love to research and advocacy for CNCF projects and Apache Pulsar.
 
 ## ↓↓↓Chinese↓↓↓
-Hi,我是远鹏.⎈Kubernetes 和 云原生 爱好者⎈. 
+Hi,我是远鹏.⎈Kubernetes 和 云原生 爱好者⎈,目前是 CNCF 大使. 
 ✨ 欢迎有兴趣的同学一起参与进来! ✨ 
 - 🌱 期待你加入pulsar-sigs,一起搞事情-->[pulsar-sigs](https://github.com/pulsar-sigs)
 - 👯 热衷于研究和传播 CNCF 项目,CDF 项目以及 Apache Pulsar.
@@ -19,7 +19,7 @@ Hi,我是远鹏.⎈Kubernetes 和 云原生 爱好者⎈.
 - 📫 [知乎](https://www.zhihu.com/people/liangyuanpeng) | [博客](https://liangyuanpeng.com/)  
 
 ## 计划中的事情✨✨
-- ~~申请 CNCF Ambassador~~ ( 目前是 CNCF 大使)
+- [x] 申请 CNCF Ambassador
 - ~~申请 CDF Ambassador~~, 我很期待,但显然精力有限 (:
 
 ## 欢迎关注公众号:四颗咖啡豆  
